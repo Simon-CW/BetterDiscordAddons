@@ -9,7 +9,8 @@
 	--guildchanneltransparency: 0.15;	/* default: 0.15 (additional darkness for guild/channel list can be changed in case a bright background makes the list hard to read) */
 	--memberlistransparency: 0.0;		/* default: 0.0 (additional darkness for member list can be changed in case a bright background makes the list hard to read) */
 	--accentcolor: 190,78,180; 			/* default: 190,78,180 discord: 114,137,218 bd-blue: 58,113,193*/
-	--background: url(https://mwittrien.github.io/BetterDiscordAddons/ThemesV2/BasicBackground/background.jpg); /* replace the link in url() with your own direct image link to change the background */
+	--background: url(https://wallpapertag.com/wallpaper/full/5/7/9/284138-jojos-bizarre-adventure-wallpaper-1920x1080-desktop.jpg
+); /* replace the link in url() with your own direct image link to change the background */
 	--backgroundsize: cover;			/* default: cover [cover/contain/auto] */
 	--backdrop: rgba(0,0,0,0.4);		/* default: rgba(0,0,0,0.4) can also be changed to an image like --background */
 	--backgroundblur: 0px;				/* default: 0px only works when --background is set to an image */
